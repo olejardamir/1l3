@@ -27,6 +27,7 @@ It is an ERC20 token on Ethereum network
 - Advanced tracking and statistics.
 - The only power the token owner has is launching the token once enough miners are established in a pool.
 - The usability will be solved with a separate project meant to promote the token and increase the value.
+- Users can register their addresses by adding data to inner maps and fields so we know who they are (when if necessary)
 
 ## NOTE
 The token is currently under a development, and the source code will not be shared before the launch, except the testing.
