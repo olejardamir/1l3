@@ -1,8 +1,11 @@
 ### Under construction
 
+## Webpage
+-Under development
+
 ## About logo
 The logo represents the Bitcoin's logo, and a segragated letter B. It contains the graphical components that look like 1, L, 3 and therefore it is the symbol of a token.
-Since we are taking the Bitcoin's logic apart and combining it into a new functioning whole, it represents the token's backend structure.
+Since we are taking the Bitcoin's logic apart and combining it into a new functioning whole, it represents the token's backend and the overall structure. The colours are chosen as the vector pointing a direction in a light spectrum, making this token appear in front of the BTC logo's dominating colours (no further explanation will be given). The background is #3a004c and the letters are #feff7f. The shape of the logo and a coin is rectangular, and letters are rectangular as well. The closest font is called "Spec" and it resembles the old Sinclair ZX spectrum logo.
 
 ## About name NoBTC
 Because we are solving multiple problems associated with the BTC, the common naming convention in programming such as SQL vs NoSQL has been applied. Therefore, it has nothing to do with a negation of a BTC model.
@@ -23,6 +26,7 @@ It is an ERC20 token on Ethereum network
 - There are no premined tokens or token allocations. Everyone has equal chances to earn.
 - Advanced tracking and statistics.
 - The only power the token owner has is launching the token once enough miners are established in a pool.
+- The usability will be solved with a separate project meant to promote the token and increase the value.
 
 ## NOTE
 The token is currently under a development, and the source code will not be shared before the launch, except the testing.
