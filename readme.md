@@ -19,11 +19,11 @@ It is an ERC20 token on Ethereum network
 - Mining is done by (at least two) interactions with a contract.
 - There is no need for the mining pools since the contract is a mining pool.
 - The halvening directly implies the minimum price increase by (times) two.
-- The greedy behaviour is controlled by assigning the initial minimum prices (in Gwei).
+- The greedy behaviour is controlled by assigning the contract-interaction prices (in Gwei).
 - There is no initial advantage for early adopters (including the contract owners).
 - The ICO, IPO, or similar is solved by the contract and there is no middle-man.
-- The presale is solved simply by collecting the miners.
-- There are no premined tokens or token allocations. Everyone has equal chances to earn.
+- The presale is done by having as many miners as possible interacting with a contract prior to a launch.
+- There are no premined tokens or initial token allocations. Everyone has equal chances to earn.
 - Advanced tracking and statistics.
 - The only power the token owner has is launching the token once enough miners are established in a pool.
 - The usability will be solved with a separate project meant to promote the token and increase the value.
