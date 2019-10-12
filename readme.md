@@ -1,4 +1,15 @@
 ### Under construction
+This is currently a solo project, since the saying "if you want something to be done right do it yourself" applies.
+
+## Progress Update
+- The main token code is under a code refactoring stage, prior to a testing stage. Every single function must be tested, and then tested again on a Ropsten.
+
+## TODO list
+- Refactor the code
+- Test each function, track the variables within, do a writeup on each.
+- Make a sped-up Ropsten version of a token, do the testing with multiple accounts.
+
+
 
 ## Webpage
 -Under development
