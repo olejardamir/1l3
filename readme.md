@@ -8,7 +8,7 @@ This is most likely going to be rebranded. For now, the logo represents the Bitc
 Since we are taking the Bitcoin's logic apart and combining it into a new functioning whole, it represents the token's backend and the overall structure. The colours are chosen as the vector pointing a direction in a light spectrum, making this token appear in front of the BTC logo's dominating colours (no further explanation will be given). The background is #3a004c and the letters are #feff7f. The shape of the logo and a coin is rectangular, and letters are rectangular as well. The closest font is called "Spec" and it resembles the old Sinclair ZX spectrum logo.
 
 ## About name NoBTC
-Because we are solving multiple problems associated with the BTC, the common naming convention in programming such as SQL vs NoSQL has been applied. Therefore, it has nothing to do with a negation of a BTC model. Instead, it means that the major components associated with the BTC are either not necessary or solved within a contract without a third-party solution. The token is stand-alone and (except the launch) nothing is controlled by the owner.
+The name as well as the ticker symbol will most likely going to be rebranded prior to a launch. Because we are solving multiple problems associated with the BTC, the common naming convention in programming such as SQL vs NoSQL has been applied. Therefore, it has nothing to do with a negation of a BTC model. Instead, it means that the major components associated with the BTC are either not necessary or solved within a contract without a third-party solution. The token is stand-alone and (except the launch) nothing is controlled by the owner.
 
 ## Network and specs
 It is an ERC20 token on Ethereum network
