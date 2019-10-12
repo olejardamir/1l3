@@ -4,7 +4,7 @@
 -Under development
 
 ## About logo
-The logo represents the Bitcoin's logo, and a segragated letter B. It contains the graphical components that look like 1, L, 3 and therefore it is the symbol of a token.
+This is most likely going to be rebranded. For now, the logo represents the Bitcoin's logo, and a segragated letter B. It contains the graphical components that look like 1, L, 3 and therefore it is the symbol of a token.
 Since we are taking the Bitcoin's logic apart and combining it into a new functioning whole, it represents the token's backend and the overall structure. The colours are chosen as the vector pointing a direction in a light spectrum, making this token appear in front of the BTC logo's dominating colours (no further explanation will be given). The background is #3a004c and the letters are #feff7f. The shape of the logo and a coin is rectangular, and letters are rectangular as well. The closest font is called "Spec" and it resembles the old Sinclair ZX spectrum logo.
 
 ## About name NoBTC
