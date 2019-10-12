@@ -1,1 +1,2 @@
 1. Make sure all functions are commented (doc style) and remove all inner comments.
+2. Spellcheck all comments.
